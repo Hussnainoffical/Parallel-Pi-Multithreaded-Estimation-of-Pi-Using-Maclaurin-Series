@@ -1,6 +1,6 @@
 # Parallel-Pi: Multithreaded Estimation of Pi Using Maclaurin Series
 
-## 📘 Project Overview
+## Project Overview
 
 This project implements a multithreaded approach to estimate the value of π using the **Maclaurin series for arctangent(1)**:
 
@@ -12,7 +12,7 @@ Developed as a **Complex Computing Problem (CCP)** for the course **Operating Sy
 
 ---
 
-## 🛠️ Features
+## Features
 
 - ✅ Multithreaded Pi estimation
 - ✅ Mutex-based synchronization
